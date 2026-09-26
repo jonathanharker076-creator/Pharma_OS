@@ -1,0 +1,10 @@
+{
+    "name": "Pharmacy OS",
+    "short_name": "PhOS",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a1a1a",
+    "orientation": "any",
+    "icons": []
+}
